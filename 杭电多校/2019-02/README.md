@@ -1,15 +1,16 @@
-# 2019 杭电多校第一场
+# 2019 杭电多校第二场
 
-- [ ] 1001 - Blank
-- [ ] 1002 - Operation
-- [ ] 1003 - Milk
-- [ ] 1004 - Vacation
-- [ ] 1005 - Path     
-- [ ] 1006 - Typewriter
-- [ ] 1007 - Meteor
-- [ ] 1008 - Desert
+- [ ] 1001 - Another Chess Problem
+- [ ] 1002 - Beauty Of Unimodal Sequence
+- [ ] 1003 - Coefficient
+- [ ] 1004 - Double Tree
+- [ ] 1005 - Everything Is Generated In Equal Probability    
+- [ ] 1006 - Fantastic Magic Cube
+- [ ] 1007 - Game
+- [ ] 1008 - Harmonious Army
 - [ ] 1009 - String
-- [ ] 1010 - Kingdom 
-- [ ] 1011 - Function
-- [ ] 1012 - Sequence
-- [ ] 1013 - Code
+- [ ] 1010 - I Love Palindrome String
+- [ ] 1011 - Just Skip The Problem
+- [ ] 1012 - Keen On Everything But Triangle
+- [ ] 1013 - Longest Subarray
+
