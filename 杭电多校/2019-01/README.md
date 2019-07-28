@@ -1,6 +1,6 @@
 # 2019 杭电多校第一场
 
-- [-] 1001 - Blank
+- [x] 1001 - Blank
 - [ ] 1002 - Operation
 - [ ] 1003 - Milk
 - [ ] 1004 - Vacation
