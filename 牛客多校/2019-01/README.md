@@ -1,15 +1,12 @@
-# 2019 杭电多校第一场
+# 2019 牛客多校第一场
 
-- [ ] 1001 - Blank
-- [ ] 1002 - Operation
-- [ ] 1003 - Milk
-- [ ] 1004 - Vacation
-- [ ] 1005 - Path     
-- [ ] 1006 - Typewriter
-- [ ] 1007 - Meteor
-- [ ] 1008 - Desert
-- [ ] 1009 - String
-- [ ] 1010 - Kingdom 
-- [ ] 1011 - Function
-- [ ] 1012 - Sequence
-- [ ] 1013 - Code
+- [ ] A - Equivalent Prefixes
+- [ ] B - Integration
+- [ ] C - Euclidean Distance
+- [ ] D - Parity of Tuples
+- [ ] E - ABBA     
+- [ ] F - Random Point in Triangle
+- [ ] G - Substrings 2
+- [ ] H - XOR
+- [ ] I - Points Division
+- [ ] J - Fraction Comparision 
