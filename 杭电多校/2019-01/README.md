@@ -11,5 +11,5 @@
 - [x] 1009 - String
 - [ ] 1010 - Kingdom 
 - [x] 1011 - Function
-- [ ] 1012 - Sequence
+- [x] 1012 - Sequence
 - [x] 1013 - Code
