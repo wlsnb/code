@@ -6,11 +6,11 @@
 - [ ] 1004 - Double Tree
 - [ ] 1005 - Everything Is Generated In Equal Probability    
 - [x] 1006 - Fantastic Magic Cube
-- [ ] 1007 - Game
+- [x] 1007 - Game
 - [x] 1008 - Harmonious Army
 - [ ] 1009 - String
 - [x] 1010 - I Love Palindrome String
 - [x] 1011 - Just Skip The Problem
 - [ ] 1012 - Keen On Everything But Triangle
-- [ ] 1013 - Longest Subarray
+- [x] 1013 - Longest Subarray
 

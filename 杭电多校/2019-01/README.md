@@ -6,10 +6,10 @@
 - [ ] 1004 - Vacation
 - [x] 1005 - Path     
 - [x] 1006 - Typewriter
-- [ ] 1007 - Meteor
+- [x] 1007 - Meteor
 - [ ] 1008 - Desert
 - [x] 1009 - String
 - [ ] 1010 - Kingdom 
-- [ ] 1011 - Function
+- [x] 1011 - Function
 - [ ] 1012 - Sequence
 - [x] 1013 - Code
