@@ -1,15 +1,12 @@
 # 2019 杭电多校第一场
 
-- [ ] 1001 - Blank
-- [ ] 1002 - Operation
-- [ ] 1003 - Milk
-- [ ] 1004 - Vacation
-- [ ] 1005 - Path     
-- [ ] 1006 - Typewriter
-- [ ] 1007 - Meteor
-- [ ] 1008 - Desert
-- [ ] 1009 - String
-- [ ] 1010 - Kingdom 
-- [ ] 1011 - Function
-- [ ] 1012 - Sequence
-- [ ] 1013 - Code
+- [ ] 1001 - AND Minimum Spanning Tree
+- [ ] 1002 - Colored Tree
+- [ ] 1003 - Divide the Stones
+- [ ] 1004 - Enveloping Convex
+- [x] 1005 - Good Numbers
+- [ ] 1006 - Horse
+- [ ] 1007 - Just an Old Puzzle
+- [x] 1008 - K-th Closest Distance
+- [ ] 1009 - Linear Functions
+- [ ] 1010 - Minimal Power of Prime
