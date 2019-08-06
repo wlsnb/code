@@ -1,6 +1,6 @@
 # 2019 杭电多校第五场
 
-- [ ] 1001 - fraction
+- [x] 1001 - fraction
 - [x] 1002 - three arrays
 - [ ] 1003 - geometric problem
 - [x] 1004 - equation
