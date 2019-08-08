@@ -1,15 +1,14 @@
-# 2019 杭电多校第一场
+# 2019 杭电多校第六场
 
-- [ ] 1001 - Blank
-- [ ] 1002 - Operation
-- [ ] 1003 - Milk
-- [ ] 1004 - Vacation
-- [ ] 1005 - Path     
-- [ ] 1006 - Typewriter
-- [ ] 1007 - Meteor
-- [ ] 1008 - Desert
-- [ ] 1009 - String
-- [ ] 1010 - Kingdom 
-- [ ] 1011 - Function
-- [ ] 1012 - Sequence
-- [ ] 1013 - Code
+- [ ] 1001 - Salty Fish
+- [x] 1002 - Nonsense Time
+- [ ] 1003 - Milk Candy
+- [ ] 1004 - Speed Dog
+- [x] 1005 - Snowy Smile     
+- [x] 1006 - Faraway
+- [ ] 1007 - Support or Not
+- [x] 1008 - TDL
+- [ ] 1009 - Three Investigators
+- [ ] 1010 - Ridiculous Netizens
+- [ ] 1011 - 11 Dimensions
+- [x] 1012 - Stay Real
