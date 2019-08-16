@@ -1,15 +1,13 @@
 # 2019 杭电多校第一场
 
-- [ ] 1001 - Blank
-- [ ] 1002 - Operation
-- [ ] 1003 - Milk
-- [ ] 1004 - Vacation
-- [ ] 1005 - Path     
-- [ ] 1006 - Typewriter
-- [ ] 1007 - Meteor
-- [ ] 1008 - Desert
-- [ ] 1009 - String
-- [ ] 1010 - Kingdom 
-- [ ] 1011 - Function
-- [ ] 1012 - Sequence
-- [ ] 1013 - Code
+- [ ] 1001 - A + B = C
+- [ ] 1002 - Bracket Sequences on Tree
+- [ ] 1003 - Cuber Occurrence
+- [ ] 1004 - Data Structure Problem
+- [ ] 1005 - Equation
+- [x] 1006 - Final Exam
+- [ ] 1007 - Getting Your Money Back
+- [ ] 1008 - Halt Hater
+- [ ] 1009 - Intersection of Prisms
+- [ ] 1010 - Just Repeat
+- [ ] 1011 - Kejin Player
