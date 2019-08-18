@@ -2,7 +2,7 @@
 
 - [ ] 1001 - A + B = C
 - [ ] 1002 - Bracket Sequences on Tree
-- [ ] 1003 - Cuber Occurrence
+- [x] 1003 - Cuber Occurrence
 - [ ] 1004 - Data Structure Problem
 - [ ] 1005 - Equation
 - [x] 1006 - Final Exam
