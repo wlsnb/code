@@ -1,15 +1,13 @@
 # 2019 杭电多校第一场
 
-- [ ] 1001 - Blank
-- [ ] 1002 - Operation
-- [ ] 1003 - Milk
-- [ ] 1004 - Vacation
-- [ ] 1005 - Path     
-- [ ] 1006 - Typewriter
-- [ ] 1007 - Meteor
-- [ ] 1008 - Desert
-- [ ] 1009 - String
-- [ ] 1010 - Kingdom 
-- [ ] 1011 - Function
-- [ ] 1012 - Sequence
-- [ ] 1013 - Code
+- [ ] 1001 - Acesrc and Cube Hypernet
+- [ ] 1002 - Acesrc and Girlfriend
+- [ ] 1003 - Acesrc and Good Numbers
+- [ ] 1004 - Acesrc and Hunting
+- [x] 1005 - Acesrc and String Theory
+- [ ] 1006 - Acesrc and Travel
+- [ ] 1007 - Andy and Data Structure
+- [ ] 1008 - Andy and Maze
+- [ ] 1009 - Calabash and Landlord
+- [ ] 1010 - Quailty and CCPC
+- [ ] 1011 - Roundgod and Milk Tea

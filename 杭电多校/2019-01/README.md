@@ -4,12 +4,12 @@
 - [x] 1002 - Operation
 - [x] 1003 - Milk
 - [ ] 1004 - Vacation
-- [ ] 1005 - Path     
-- [ ] 1006 - Typewriter
-- [ ] 1007 - Meteor
+- [x] 1005 - Path     
+- [x] 1006 - Typewriter
+- [x] 1007 - Meteor
 - [ ] 1008 - Desert
-- [ ] 1009 - String
+- [x] 1009 - String
 - [x] 1010 - Kingdom 
-- [ ] 1011 - Function
+- [x] 1011 - Function
 - [x] 1012 - Sequence
-- [ ] 1013 - Code
+- [x] 1013 - Code

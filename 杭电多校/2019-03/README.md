@@ -1,15 +1,13 @@
-# 2019 杭电多校第一场
+# 2019 杭电多校第三场
 
-- [ ] 1001 - Blank
-- [ ] 1002 - Operation
-- [ ] 1003 - Milk
-- [ ] 1004 - Vacation
-- [ ] 1005 - Path     
-- [ ] 1006 - Typewriter
-- [ ] 1007 - Meteor
-- [ ] 1008 - Desert
-- [ ] 1009 - String
-- [ ] 1010 - Kingdom 
-- [ ] 1011 - Function
-- [ ] 1012 - Sequence
-- [ ] 1013 - Code
+- [ ] 1001 - Azshara's deep sea
+- [ ] 1002 - Blow up the city
+- [ ] 1003 - Yukikaze and Demons
+- [x] 1004 - Distribution of books
+- [ ] 1005 - Easy Math Problem
+- [ ] 1006 - Fansblog
+- [ ] 1007 - Find the answer
+- [ ] 1008 - Game
+- [x] 1009 - K Subsequence
+- [ ] 1010 - Sindar's Art Exhibition 
+- [ ] 1011 - Squrirrel

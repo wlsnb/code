@@ -5,12 +5,12 @@
 - [ ] 1003 - Coefficient
 - [ ] 1004 - Double Tree
 - [ ] 1005 - Everything Is Generated In Equal Probability    
-- [ ] 1006 - Fantastic Magic Cube
-- [ ] 1007 - Game
-- [ ] 1008 - Harmonious Army
+- [x] 1006 - Fantastic Magic Cube
+- [x] 1007 - Game
+- [x] 1008 - Harmonious Army
 - [ ] 1009 - String
-- [ ] 1010 - I Love Palindrome String
-- [ ] 1011 - Just Skip The Problem
+- [x] 1010 - I Love Palindrome String
+- [x] 1011 - Just Skip The Problem
 - [ ] 1012 - Keen On Everything But Triangle
-- [ ] 1013 - Longest Subarray
+- [x] 1013 - Longest Subarray
 
