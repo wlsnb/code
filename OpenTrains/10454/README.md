@@ -5,5 +5,5 @@
 - [x] B. [Busy Board](https://naipc19.kattis.com/problems/busyboard)
 - [x] E. [Monotony](https://naipc19.kattis.com/problems/monotony)
 - [ ] F. [Heaps of Fun](https://naipc19.kattis.com/problems/heapsoffun)
-- [ ] I. [Cutting Strings](https://naipc19.kattis.com/problems/cuttingstrings)
+- [x] I. [Cutting Strings](https://naipc19.kattis.com/problems/cuttingstrings)
 - [ ] L. [Planes, Trains, but not Automobiles](https://naipc19.kattis.com/problems/planestrainsbutnotautomobiles)
